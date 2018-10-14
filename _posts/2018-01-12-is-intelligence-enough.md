@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Is Intelligence Enough"
-author: sal
+author: nadun
 categories: [ Jekyll, tutorial ]
 image: assets/images/6.jpg
 ---
