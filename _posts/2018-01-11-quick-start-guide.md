@@ -10,6 +10,9 @@ hidden: true
 
 If you already have a full Ruby development environment with all headers and RubyGems installed (see Jekyll’s requirements), you can create a new Jekyll site by doing the following:
 
+* Do not remove this line (it will not be displayed)
+{:toc}
+
 ```ruby
 # Install Jekyll and Bundler gems through RubyGems
 gem install jekyll bundler

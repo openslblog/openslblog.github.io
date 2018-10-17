@@ -48,3 +48,6 @@ paginate_path: /page:num/
 # Other
 markdown: kramdown
 highlighter: rouge
+
+kramdown:
+  parse_block_html: true

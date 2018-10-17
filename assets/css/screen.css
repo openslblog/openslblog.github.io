@@ -1,9 +1,20 @@
-/* 
-Template Name: Mediumish 
-Copyright: Sal, WowThemes.net, https://www.wowthemes.net 
-Version: 1.0.22 
-License: https://www.wowthemes.net/freebies-license/ 
-*/
+#markdown-toc::before {
+    content: "Contents";
+    font-weight: bold;
+}
+
+#markdown-toc ul {
+    list-style: decimal;
+}
+
+#markdown-toc {
+    border: 1px solid #aaa;
+    padding: 1.5em;
+    list-style: decimal;
+    display: inline-block;
+}
+
+
  .mainheading {
      padding:1rem 0rem;
 }
