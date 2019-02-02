@@ -1,7 +1,7 @@
 ---
 published: false
 layout: post
-title: Docker
+title: Introduction to Docker
 description: Introduction to Docker
 author: Nadun Indunil
 header-img: assets/images/dockericon.png
@@ -21,10 +21,10 @@ So, the question of **what is docker** can be answered as follows,
 *Docker is considered as the world's leading software containerization platform.*
 
 **What is a Container?**
-<blockquote>
-container is an object for holding or transporting something.
+
+> container is an object for holding or transporting something.
 The meaning of the container can be considered as a large metal box of a standard design and size used for the transport of goods by road, rail, sea, or air.
-</blockquote>
+
 
 When it comes to Docker the same properties of containers in real-life applies to Docker Containers. Docker container wraps up your application, environment and all the things you need to run the application. Then you can host your application anywhere you want without worrying about the dependencies.
 
