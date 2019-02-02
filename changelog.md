@@ -1,4 +1,4 @@
-# Mediumish Jekyll Theme - Change Log
+# OpenSL Jekyll Theme - Change Log
 
 ## 2018-09-12
 

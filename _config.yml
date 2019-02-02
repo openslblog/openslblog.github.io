@@ -5,8 +5,8 @@ meta_description: 'Tech Blog where people talk about cutting edge techs.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: 
-google_analytics: 'UA-87463733-1'
-disqus: 'nadunsblog'
+google_analytics: ''
+disqus: 'opensl'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 # Authors
