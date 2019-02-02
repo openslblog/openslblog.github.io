@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Introduction to Docker
 description: Introduction to Docker
