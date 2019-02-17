@@ -1,3 +1,7 @@
+html {
+    font-size: 90%;
+}
+
 #markdown-toc::before {
     content: "Contents";
     font-weight: bold;
@@ -254,8 +258,8 @@
 }
  .article-post {
      font-family:medium-content-serif-font,Georgia,Cambria,"Times New Roman",Times,serif;
-     font-size:1.2rem;
-     line-height:1.8;
+     font-size:1.1rem;
+     line-height:1.6;
      color:rgba(0,0,0,.8);
 }
  blockquote {
